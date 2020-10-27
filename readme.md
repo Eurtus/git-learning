@@ -1,1 +1,2 @@
-reomte origin*********************
+# git-learning
+A git learning target.
